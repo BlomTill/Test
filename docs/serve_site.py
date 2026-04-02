@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Serve the static site locally. From repo root: python3 site/serve_site.py"""
+"""Serve the static site locally. From repo root: python3 docs/serve_site.py"""
 
 import http.server
 import os

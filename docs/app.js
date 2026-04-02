@@ -53,4 +53,49 @@
   if (c.hasAffiliateDisclosure) {
     disc.hidden = false;
   }
+
+  fetch("trending.json")
+    .then(function (r) {
+      if (!r.ok) throw new Error(r.status);
+      return r.json();
+    })
+    .then(function (data) {
+      var tl = document.getElementById("trending-list");
+      var tu = document.getElementById("trending-updated");
+      if (!data || !data.items || !data.items.length) {
+        tl.innerHTML =
+          '<li class="placeholder">No trending items yet — run build_news.py.</li>';
+        return;
+      }
+      if (tu && data.updated) {
+        tu.textContent = "Updated " + data.updated;
+      }
+      tl.innerHTML = "";
+      data.items.forEach(function (item) {
+        var li = document.createElement("li");
+        var a = document.createElement("a");
+        a.href = item.url;
+        a.rel = item.affiliate
+          ? "noopener noreferrer sponsored"
+          : "noopener noreferrer";
+        a.target = "_blank";
+        a.textContent = item.title;
+        li.appendChild(a);
+        if (item.source) {
+          var span = document.createElement("span");
+          span.className = "hint";
+          span.textContent = item.source;
+          li.appendChild(span);
+        }
+        tl.appendChild(li);
+      });
+      if (data.items.some(function (i) { return i.affiliate; })) {
+        disc.hidden = false;
+      }
+    })
+    .catch(function () {
+      var tl = document.getElementById("trending-list");
+      tl.innerHTML =
+        '<li class="placeholder">Could not load trending picks.</li>';
+    });
 })();

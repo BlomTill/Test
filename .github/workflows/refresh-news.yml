@@ -26,14 +26,14 @@ jobs:
       - name: Build news HTML
         run: python3 news/build_news.py
 
-      - name: Commit site/news.html if changed
+      - name: Commit site changes if updated
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/news.html
+          git add docs/news.html docs/trending.json
           if git diff --staged --quiet; then
             echo "No news changes."
           else
-            git commit -m "chore: refresh news.html"
+            git commit -m "chore: refresh news + trending"
             git push
           fi

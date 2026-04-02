@@ -292,3 +292,26 @@ footer {
 .footer-meta code {
   font-size: 0.75rem;
 }
+
+.trending-updated {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin: -0.5rem 0 1rem;
+}
+
+.trending-more {
+  margin-top: 1rem;
+  text-align: right;
+}
+
+.trending-more a {
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.trending-more a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}

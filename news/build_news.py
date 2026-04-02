@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Fetch configured RSS/Atom feeds, optionally tag retailer URLs with affiliate params,
-and write site/news.html. Uses only the Python standard library.
+and write docs/news.html. Uses only the Python standard library.
 
 Config: news/news_config.json · Template: news/templates/news_page.html
 
@@ -29,7 +29,8 @@ from urllib.parse import parse_qs, urlencode, urlparse, urlunparse
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "news" / "news_config.json"
 TEMPLATE_PATH = ROOT / "news" / "templates" / "news_page.html"
-OUT_PATH = ROOT / "site" / "news.html"
+OUT_PATH = ROOT / "docs" / "news.html"
+TRENDING_PATH = ROOT / "docs" / "trending.json"
 
 ATOM_NS = "http://www.w3.org/2005/Atom"
 ATOM = f"{{{ATOM_NS}}}"
@@ -314,6 +315,24 @@ def main() -> None:
 
     OUT_PATH.write_text(out, encoding="utf-8")
     print(f"Wrote {OUT_PATH} ({len(collected)} items)")
+
+    max_trending = int(cfg.get("max_trending_items", 8))
+    trending = [
+        {
+            "title": e["title"],
+            "url": e["link"],
+            "source": e["source"],
+            "affiliate": e["affiliate"],
+        }
+        for e in collected[:max_trending]
+        if e["link"]
+    ]
+    trending_payload = {"updated": generated, "items": trending}
+    TRENDING_PATH.write_text(
+        json.dumps(trending_payload, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
+    print(f"Wrote {TRENDING_PATH} ({len(trending)} trending items)")
 
 
 if __name__ == "__main__":
