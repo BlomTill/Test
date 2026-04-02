@@ -1,0 +1,11 @@
+{
+  "slide_count": 5,
+  "seconds_per_slide_fallback": 3.5,
+  "voice": "en-US-AriaNeural",
+  "vertical_width": 1080,
+  "vertical_height": 1920,
+  "openai_model": "gpt-4o-mini",
+  "default_topic": "Technology news and product launches",
+  "pollinations_delay_seconds": 1.0,
+  "pollinations_nologo": true
+}

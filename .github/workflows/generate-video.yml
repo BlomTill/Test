@@ -1,0 +1,38 @@
+name: Generate social video
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Weekly — set OPENAI_API_KEY / optional secrets in repo Settings → Secrets
+    - cron: "0 14 * * 1"
+
+jobs:
+  video:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg and deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          pip install edge-tts
+
+      - name: Generate video (Pollinations + Edge TTS)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          VIDEO_TOPIC: ${{ secrets.VIDEO_TOPIC }}
+        run: |
+          mkdir -p video/output
+          python3 video/generate_ai_video.py --out video/output/social_vertical.mp4
+
+      - name: Upload MP4 artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: social-vertical
+          path: video/output/social_vertical.mp4
+          if-no-files-found: warn

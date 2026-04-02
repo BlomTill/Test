@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Link hub</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,600;0,9..40,700;1,9..40,400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="bg-gradient" aria-hidden="true"></div>
+    <main>
+      <header>
+        <div class="avatar" id="avatar-initial" aria-hidden="true">?</div>
+        <h1 id="site-name">Loading…</h1>
+        <p class="tagline" id="tagline"></p>
+        <p class="bio" id="bio"></p>
+      </header>
+
+      <p class="hub-extra"><a href="news.html">Product &amp; tech news roundup</a></p>
+
+      <section class="card" aria-labelledby="links-heading">
+        <h2 id="links-heading">Links</h2>
+        <ul class="link-list" id="link-list"></ul>
+        <p class="affiliate-note" id="affiliate-note" hidden>
+          Disclosure: Some links may be affiliate or referral links. I only
+          recommend what I use or trust.
+        </p>
+      </section>
+
+      <footer>
+        <nav class="footer-links" id="footer-links" aria-label="Footer"></nav>
+      </footer>
+    </main>
+    <script src="config.js"></script>
+    <script>
+      (function () {
+        var n = window.SITE_CONFIG && window.SITE_CONFIG.name;
+        if (n && n.length) {
+          document.getElementById("avatar-initial").textContent = n
+            .trim()
+            .charAt(0)
+            .toUpperCase();
+        }
+        document.title = (n || "Link hub") + " — Links";
+      })();
+    </script>
+    <script src="app.js"></script>
+  </body>
+</html>

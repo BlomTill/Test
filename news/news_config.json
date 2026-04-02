@@ -1,0 +1,26 @@
+{
+  "page_title": "Product & tech picks",
+  "page_heading": "Latest from the feeds",
+  "intro": "Automated roundup from RSS. Links below may include affiliate parameters you configure — see the disclosure.",
+  "max_items_per_feed": 10,
+  "max_total_items": 35,
+  "feeds": [
+    {
+      "url": "https://www.theverge.com/rss/index.xml",
+      "name": "The Verge"
+    },
+    {
+      "url": "https://arstechnica.com/feed/",
+      "name": "Ars Technica"
+    }
+  ],
+  "affiliate_query_rules": [
+    {
+      "hosts": ["amazon.com", "www.amazon.com", "smile.amazon.com"],
+      "param": "tag",
+      "value": "REPLACE-WITH-YOUR-AMAZON-ASSOCIATES-TAG"
+    }
+  ],
+  "strip_html_from_summary": true,
+  "summary_max_chars": 220
+}
