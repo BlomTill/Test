@@ -1,6 +1,12 @@
 {
-  "updated": "2026-04-04 05:15 UTC",
+  "updated": "2026-04-04 08:01 UTC",
   "items": [
+    {
+      "title": "Anker’s Nebula P1 projector is the portable sound king",
+      "url": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
       "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
@@ -41,12 +47,6 @@
       "title": "NASA did eventually solve Artemis II&#8217;s Outlook glitch",
       "url": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
       "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Trump ignores biggest reasons his AI data center buildout is failing",
-      "url": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
-      "source": "Ars Technica",
       "affiliate": false
     }
   ]
