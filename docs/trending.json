@@ -1,6 +1,18 @@
 {
-  "updated": "2026-04-04 14:04 UTC",
+  "updated": "2026-04-04 19:46 UTC",
   "items": [
+    {
+      "title": "A folk musician became a target for AI fakes and a copyright troll",
+      "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Buy two Nintendo Switch games, get $30 off at Target",
+      "url": "https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "My dream pair of AR gaming glasses needs to have these nine features",
       "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
@@ -35,18 +47,6 @@
       "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
       "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
       "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
-      "url": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Ice Age dice show early Native Americans may have understood probability",
-      "url": "https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/",
-      "source": "Ars Technica",
       "affiliate": false
     }
   ]
