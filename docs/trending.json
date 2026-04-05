@@ -1,6 +1,18 @@
 {
-  "updated": "2026-04-04 19:46 UTC",
+  "updated": "2026-04-05 05:57 UTC",
   "items": [
+    {
+      "title": "Artemis II is going so well that we're left to talk about frozen urine",
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
+      "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
     {
       "title": "A folk musician became a target for AI fakes and a copyright troll",
       "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
@@ -34,18 +46,6 @@
     {
       "title": "The app for tracking TV, movies, podcasts, and everything",
       "url": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Anker’s Nebula P1 projector is the portable sound king",
-      "url": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
       "source": "The Verge",
       "affiliate": false
     }
