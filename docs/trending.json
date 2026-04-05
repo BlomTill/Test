@@ -1,6 +1,36 @@
 {
-  "updated": "2026-04-05 08:05 UTC",
+  "updated": "2026-04-05 14:05 UTC",
   "items": [
+    {
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Is the Slate Truck too minimal for its own good?",
+      "url": "https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "How the Amazon Echo learned to talk — and listen",
+      "url": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Grammarly’s sloppelganger saga",
+      "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "CBP facility codes sure seem to have leaked via online flashcards",
+      "url": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
     {
       "title": "Artemis II is going so well that we're left to talk about frozen urine",
       "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
@@ -16,36 +46,6 @@
     {
       "title": "A folk musician became a target for AI fakes and a copyright troll",
       "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Buy two Nintendo Switch games, get $30 off at Target",
-      "url": "https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "My dream pair of AR gaming glasses needs to have these nine features",
-      "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Really, you made this without AI? Prove it",
-      "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Super Meat Boy 3D makes suffering fun",
-      "url": "https://www.theverge.com/games/904202/super-meat-boy-3d-review",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "The app for tracking TV, movies, podcasts, and everything",
-      "url": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
       "source": "The Verge",
       "affiliate": false
     }
