@@ -1,51 +1,51 @@
 {
-  "updated": "2026-04-06 14:38 UTC",
+  "updated": "2026-04-06 20:04 UTC",
   "items": [
     {
-      "title": "Used EV sales spike alongside gas prices",
-      "url": "https://arstechnica.com/cars/2026/04/used-ev-sales-spike-alongside-gas-prices/",
+      "title": "The best deals on MacBooks right now",
+      "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "DJI’s Mic Mini records clear audio on the go, and it&#8217;s on sale for $60",
+      "url": "https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "NASA's Moon ship and rocket seem to be working well, so what about the landers?",
+      "url": "https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/",
       "source": "Ars Technica",
       "affiliate": false
     },
     {
-      "title": "Why will today's lunar flyby only beam back low-resolution video?",
-      "url": "https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/",
+      "title": "Robotaxi companies won’t say how often remote operators intervene",
+      "url": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Teardown of unreleased LG Rollable shows why rollable phones aren't a thing",
+      "url": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
       "source": "Ars Technica",
       "affiliate": false
     },
     {
-      "title": "What Memento reveals about human nature, 25 years later",
-      "url": "https://arstechnica.com/culture/2026/04/memento-turns-25/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Can AI responses be influenced? The SEO industry is trying",
-      "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
+      "title": "NASA’s Artemis II mission to fly around the far side of the Moon",
+      "url": "https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine",
       "source": "The Verge",
       "affiliate": false
     },
     {
-      "title": "Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite",
-      "url": "https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review",
+      "title": "Netflix is launching a new app for kids games",
+      "url": "https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app",
       "source": "The Verge",
       "affiliate": false
     },
     {
-      "title": "Suno is a music copyright nightmare",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Is the Slate Truck too minimal for its own good?",
-      "url": "https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design",
+      "title": "Samsung&#8217;s Galaxy S27 &#8216;Pro&#8217; could squeeze in between the Ultra and Plus phones",
+      "url": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
       "source": "The Verge",
       "affiliate": false
     }
