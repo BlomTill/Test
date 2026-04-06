@@ -1,6 +1,30 @@
 {
-  "updated": "2026-04-06 06:19 UTC",
+  "updated": "2026-04-06 14:38 UTC",
   "items": [
+    {
+      "title": "Used EV sales spike alongside gas prices",
+      "url": "https://arstechnica.com/cars/2026/04/used-ev-sales-spike-alongside-gas-prices/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Why will today's lunar flyby only beam back low-resolution video?",
+      "url": "https://arstechnica.com/space/2026/04/video-from-artemis-ii-flyby-of-the-moon-will-not-initially-look-spectacular/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "What Memento reveals about human nature, 25 years later",
+      "url": "https://arstechnica.com/culture/2026/04/memento-turns-25/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Can AI responses be influenced? The SEO industry is trying",
+      "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "Los Thuthanaka’s Wak&#8217;a is a mellower follow-up to last year’s surprise Pitchfork favorite",
       "url": "https://www.theverge.com/entertainment/907174/los-thuthanaka-waka-review",
@@ -23,30 +47,6 @@
       "title": "Is the Slate Truck too minimal for its own good?",
       "url": "https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design",
       "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "How the Amazon Echo learned to talk — and listen",
-      "url": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Grammarly’s sloppelganger saga",
-      "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "CBP facility codes sure seem to have leaked via online flashcards",
-      "url": "https://arstechnica.com/security/2026/04/cbp-facility-codes-sure-seem-to-have-leaked-via-online-flashcards/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Artemis II is going so well that we're left to talk about frozen urine",
-      "url": "https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/",
-      "source": "Ars Technica",
       "affiliate": false
     }
   ]
