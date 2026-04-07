@@ -1,51 +1,51 @@
 {
-  "updated": "2026-04-06 20:04 UTC",
+  "updated": "2026-04-07 06:00 UTC",
   "items": [
+    {
+      "title": "After court loss, RFK Jr. gives himself more power over CDC vaccine panel",
+      "url": "https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
+      "url": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Sports bets on prediction markets ruled to be \"swaps,\" exempt from state laws",
+      "url": "https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Wisconsin governor says ‘no’ to age checks for porn",
+      "url": "https://www.theverge.com/policy/907761/wisconsin-governor-porn-age-verification-vetoed",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Trump's next budget once again calls for massive cuts to science",
+      "url": "https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
+      "url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Artemis II astronauts break a record, name a crater",
+      "url": "https://www.theverge.com/science/907682/nasa-artemis-ii-distance-record-crater-names",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "The best deals on MacBooks right now",
       "url": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "DJI’s Mic Mini records clear audio on the go, and it&#8217;s on sale for $60",
-      "url": "https://www.theverge.com/gadgets/907582/dji-mic-mini-two-transmitters-deal-sale",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "NASA's Moon ship and rocket seem to be working well, so what about the landers?",
-      "url": "https://arstechnica.com/space/2026/04/nasas-moon-ship-and-rocket-seem-to-be-working-well-so-what-about-the-landers/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Robotaxi companies won’t say how often remote operators intervene",
-      "url": "https://www.theverge.com/transportation/907478/robotaxi-remote-assistance-markey-investigation-waymo-tesla",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Teardown of unreleased LG Rollable shows why rollable phones aren't a thing",
-      "url": "https://arstechnica.com/gadgets/2026/04/teardown-of-unreleased-lg-rollable-shows-why-rollable-phones-arent-a-thing/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "NASA’s Artemis II mission to fly around the far side of the Moon",
-      "url": "https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Netflix is launching a new app for kids games",
-      "url": "https://www.theverge.com/entertainment/907293/netflix-playground-kids-games-app",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Samsung&#8217;s Galaxy S27 &#8216;Pro&#8217; could squeeze in between the Ultra and Plus phones",
-      "url": "https://www.theverge.com/tech/907431/samsung-galaxy-s27-pro-privacy-display-rumor",
       "source": "The Verge",
       "affiliate": false
     }
