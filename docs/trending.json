@@ -1,52 +1,52 @@
 {
-  "updated": "2026-04-09 16:49 UTC",
+  "updated": "2026-04-09 19:12 UTC",
   "items": [
+    {
+      "title": "Netflix&#8217;s TV games get a big boost with Jackbox collection",
+      "url": "https://www.theverge.com/streaming/909415/netflix-games-jackbox-party-essentials",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Framework is teasing a lot of Linux for its April 21st event",
+      "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "The gravity of their experience hasn't quite set in for the Artemis II astronauts",
+      "url": "https://arstechnica.com/space/2026/04/astronauts-recall-the-sci-fi-experience-of-flying-in-the-shadow-of-the-moon/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech",
+      "url": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
+      "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Castlevania headlines a big list of exciting indie game reveals",
+      "url": "https://www.theverge.com/games/908898/triple-i-initiative-indie-game-showcase-2026-recap-trailers",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Volkswagen stops building ID.4s in the US, has inventory \"into 2027\"",
+      "url": "https://arstechnica.com/cars/2026/04/volkswagen-ends-id-4-production-in-tennessee-to-build-atlas-suv/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
     {
       "title": "The team behind 1000xResist is making a game about convincing an AI that it isn’t human",
       "url": "https://www.theverge.com/entertainment/909180/prove-youre-human-announcement-sunset-visitor-1000xresist",
       "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Police corporal created AI porn from driver's license pics",
-      "url": "https://arstechnica.com/tech-policy/2026/04/state-police-corporal-created-porn-deepfakes-from-drivers-license-photos/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Mastodon is about to launch its take on Bluesky&#8217;s starter packs",
-      "url": "https://www.theverge.com/tech/909308/mastodon-collections-bluesky-starter-packs",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Slay the Princess’ developer is the latest to expand into indie game publishing",
-      "url": "https://www.theverge.com/games/908072/black-tabby-games-publishing-slay-the-princess",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "The MacBook Neo is the best thing to happen to Windows in years",
-      "url": "https://www.theverge.com/tech/909140/microsoft-windows-11-fixes-macbook-neo-response-notepad",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "First man convicted under Take It Down Act kept making AI nudes after arrest",
-      "url": "https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "A thin, light entry-level gaming laptop is $300 off at Best Buy",
-      "url": "https://www.theverge.com/gadgets/909148/lenovo-gaming-laptop-nvidia-rtx-4050-deal-sale",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "CDC study shows COVID shot benefits; Trump official blocks release",
-      "url": "https://arstechnica.com/health/2026/04/cdc-study-shows-covid-shot-benefits-trump-official-blocks-release/",
-      "source": "Ars Technica",
       "affiliate": false
     }
   ]
