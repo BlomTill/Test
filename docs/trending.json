@@ -1,51 +1,51 @@
 {
-  "updated": "2026-04-08 20:08 UTC",
+  "updated": "2026-04-09 06:07 UTC",
   "items": [
+    {
+      "title": "The Moon is already on Google Maps—did Artemis II really tell us anything new?",
+      "url": "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Gemini gets notebooks to help you organize projects",
+      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Dyson made a handheld version of its iconic fans",
+      "url": "https://www.theverge.com/tech/907802/dyson-hushjet-mini-cool-handheld-personal-fan-specs-availability",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Trump admin makes sweeping request for medical records of federal workers",
+      "url": "https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "LinkedIn scanning users' browser extensions sparks controversy and two lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
       "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "I finally get the iPhone Air",
-      "url": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "The AI RAM shortage is also driving up SSD prices",
-      "url": "https://www.theverge.com/tech/908916/ssd-storage-shortages-price-increases",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "How our digital devices are putting our right to privacy at risk",
-      "url": "https://arstechnica.com/culture/2026/04/how-our-digital-devices-are-putting-our-right-to-privacy-at-risk/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Motorola suddenly raises budget phone prices up to 50%—you can probably thank AI",
-      "url": "https://arstechnica.com/gadgets/2026/04/motorolas-budget-phones-are-now-up-to-50-more-expensive-as-memory-shortage-drags-on/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "The Neo Effect: How Apple&#8217;s cheapest Mac is changing the PC game",
-      "url": "https://www.theverge.com/tech/904705/apple-macbook-neo-news-reviews-mods",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit",
-      "url": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Tankers passing through Strait of Hormuz will have to pay cryptocurrency toll",
-      "url": "https://arstechnica.com/tech-policy/2026/04/iran-demands-cryptocurrency-toll-from-tankers-passing-through-strait-of-hormuz/",
       "source": "Ars Technica",
       "affiliate": false
     }
