@@ -1,52 +1,52 @@
 {
-  "updated": "2026-04-09 19:12 UTC",
+  "updated": "2026-04-10 02:49 UTC",
   "items": [
     {
-      "title": "Netflix&#8217;s TV games get a big boost with Jackbox collection",
-      "url": "https://www.theverge.com/streaming/909415/netflix-games-jackbox-party-essentials",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Framework is teasing a lot of Linux for its April 21st event",
-      "url": "https://www.theverge.com/tech/909401/framework-next-gen-linux-teaser",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "The gravity of their experience hasn't quite set in for the Artemis II astronauts",
-      "url": "https://arstechnica.com/space/2026/04/astronauts-recall-the-sci-fi-experience-of-flying-in-the-shadow-of-the-moon/",
+      "title": "Orion helium leak no threat to Artemis II reentry, but will require redesign",
+      "url": "https://arstechnica.com/space/2026/04/nasa-homes-in-on-likely-redesign-to-fix-orion-spacecrafts-leaky-valves/",
       "source": "Ars Technica",
       "affiliate": false
     },
     {
-      "title": "Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech",
-      "url": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/",
+      "title": "ChatGPT has a new $100 per month Pro subscription",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "RFK Jr. rewrites CDC panel's charter, opening door to anti-vaccine quacks",
+      "url": "https://arstechnica.com/health/2026/04/rfk-jr-rewrites-cdc-panels-charter-opening-door-to-anti-vaccine-quacks/",
       "source": "Ars Technica",
       "affiliate": false
     },
     {
-      "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
-      "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+      "title": "Here are the best Apple Watch deals available right now",
+      "url": "https://www.theverge.com/21289209/best-apple-watch-deals",
       "source": "The Verge",
       "affiliate": false
     },
     {
-      "title": "Castlevania headlines a big list of exciting indie game reveals",
-      "url": "https://www.theverge.com/games/908898/triple-i-initiative-indie-game-showcase-2026-recap-trailers",
+      "title": "Florida launches investigation into OpenAI",
+      "url": "https://www.theverge.com/policy/909557/openai-florida-investigation",
       "source": "The Verge",
       "affiliate": false
     },
     {
-      "title": "Volkswagen stops building ID.4s in the US, has inventory \"into 2027\"",
-      "url": "https://arstechnica.com/cars/2026/04/volkswagen-ends-id-4-production-in-tennessee-to-build-atlas-suv/",
+      "title": "The EFF is quitting X",
+      "url": "https://www.theverge.com/tech/909550/eff-electronic-frontier-foundation-leaving-x-twitter",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "John Deere will pay farmers $99 million over right-to-repair lawsuit",
+      "url": "https://www.theverge.com/policy/909524/john-deere-class-action-settlement-farmers",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
+      "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
       "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "The team behind 1000xResist is making a game about convincing an AI that it isn’t human",
-      "url": "https://www.theverge.com/entertainment/909180/prove-youre-human-announcement-sunset-visitor-1000xresist",
-      "source": "The Verge",
       "affiliate": false
     }
   ]
