@@ -1,51 +1,51 @@
 {
-  "updated": "2026-04-10 18:59 UTC",
+  "updated": "2026-04-11 02:33 UTC",
   "items": [
+    {
+      "title": "Four astronauts are back home after a daring ride around the Moon",
+      "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Californians sue over AI tool that records doctor visits",
+      "url": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Now the FAA says gamers are the answer to its air traffic controller shortage",
+      "url": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "How to watch the Artemis II astronauts return to Earth",
+      "url": "https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "New paper argues history, not mantle plume, powers Yellowstone",
+      "url": "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "F1 moves a step closer to fixing its 2026 hybrid problem",
+      "url": "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
     {
       "title": "Report: US demands Reddit unmask ICE critic, summons firm to grand jury",
       "url": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Microsoft's \"commitment to Windows quality\" starts with overhaul of beta program",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool",
-      "url": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "\"Oobleck\" still holds some surprises",
-      "url": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "My go-to electric screwdriver is on sale for over 50 percent off today",
-      "url": "https://www.theverge.com/gadgets/909546/fanttik-s1-pro-cordless-electric-screwdriver-iniu-20w-portable-charger-deal-sale",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Amazon Luna axes third-party game purchases",
-      "url": "https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "YouTube increases Premium price again, says 90-second unskippable ads are a bug",
-      "url": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug/",
       "source": "Ars Technica",
       "affiliate": false
     }
