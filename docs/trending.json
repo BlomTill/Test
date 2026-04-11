@@ -1,6 +1,36 @@
 {
-  "updated": "2026-04-11 07:04 UTC",
+  "updated": "2026-04-11 13:05 UTC",
   "items": [
+    {
+      "title": "Demons and pinball are a perfect match",
+      "url": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "How Iran out-shitposted the White House",
+      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "The new show making fun of tech bros",
+      "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "AI models are terrible at betting on soccer—especially xAI Grok",
+      "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?",
+      "url": "https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "The Artemis II mission has ended. Where does NASA go from here?",
       "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
@@ -16,36 +46,6 @@
     {
       "title": "Californians sue over AI tool that records doctor visits",
       "url": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Now the FAA says gamers are the answer to its air traffic controller shortage",
-      "url": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "How to watch the Artemis II astronauts return to Earth",
-      "url": "https://www.theverge.com/news/910397/how-to-watch-the-artemis-ii-astronauts-return-to-earth",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "New paper argues history, not mantle plume, powers Yellowstone",
-      "url": "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "F1 moves a step closer to fixing its 2026 hybrid problem",
-      "url": "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/",
       "source": "Ars Technica",
       "affiliate": false
     }
