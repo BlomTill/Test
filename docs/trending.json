@@ -1,6 +1,12 @@
 {
-  "updated": "2026-04-11 02:33 UTC",
+  "updated": "2026-04-11 07:04 UTC",
   "items": [
+    {
+      "title": "The Artemis II mission has ended. Where does NASA go from here?",
+      "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
     {
       "title": "Four astronauts are back home after a daring ride around the Moon",
       "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
@@ -40,12 +46,6 @@
     {
       "title": "F1 moves a step closer to fixing its 2026 hybrid problem",
       "url": "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Report: US demands Reddit unmask ICE critic, summons firm to grand jury",
-      "url": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice/",
       "source": "Ars Technica",
       "affiliate": false
     }
