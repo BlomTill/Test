@@ -1,6 +1,42 @@
 {
-  "updated": "2026-04-11 13:05 UTC",
+  "updated": "2026-04-11 18:51 UTC",
   "items": [
+    {
+      "title": "Google says Polymarket bets showing up in News was an ‘error’",
+      "url": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Pokémon Champions is off to a rough start",
+      "url": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Your article about AI doesn’t need AI art",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Google’s latest Nest Doorbells just hit their lowest prices of the year",
+      "url": "https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
+      "url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "Demons and pinball are a perfect match",
       "url": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
@@ -11,42 +47,6 @@
       "title": "How Iran out-shitposted the White House",
       "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
       "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "The new show making fun of tech bros",
-      "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "AI models are terrible at betting on soccer—especially xAI Grok",
-      "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?",
-      "url": "https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "The Artemis II mission has ended. Where does NASA go from here?",
-      "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Four astronauts are back home after a daring ride around the Moon",
-      "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Californians sue over AI tool that records doctor visits",
-      "url": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/",
-      "source": "Ars Technica",
       "affiliate": false
     }
   ]
