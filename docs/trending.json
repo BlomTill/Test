@@ -1,6 +1,24 @@
 {
-  "updated": "2026-04-12 07:19 UTC",
+  "updated": "2026-04-12 13:07 UTC",
   "items": [
+    {
+      "title": "The AI code wars are heating up",
+      "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
+      "url": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Allow me to explain why I love this camera that can’t shoot color",
+      "url": "https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving",
       "url": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
@@ -28,24 +46,6 @@
     {
       "title": "Google’s latest Nest Doorbells just hit their lowest prices of the year",
       "url": "https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "You don’t have to spend more than $50 on a great USB-C dock for your Switch 2",
-      "url": "https://www.theverge.com/gadgets/907645/nintendo-switch-2-genki-jsaux-usb-c-dock-hands-on",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Demons and pinball are a perfect match",
-      "url": "https://www.theverge.com/entertainment/909820/devils-on-the-moon-pinball-review-playdate",
       "source": "The Verge",
       "affiliate": false
     }
