@@ -1,6 +1,12 @@
 {
-  "updated": "2026-04-12 18:55 UTC",
+  "updated": "2026-04-13 02:57 UTC",
   "items": [
+    {
+      "title": "Room for the Moon is thrillingly weird experimental pop",
+      "url": "https://www.theverge.com/entertainment/910826/room-for-the-moon-is-thrillingly-weird-experimental-pop",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "Rockstar Games says hack will have ‘no impact’",
       "url": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact",
@@ -41,12 +47,6 @@
       "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
       "url": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/",
       "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Allow me to explain why I love this camera that can’t shoot color",
-      "url": "https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review",
-      "source": "The Verge",
       "affiliate": false
     }
   ]
