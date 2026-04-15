@@ -1,52 +1,52 @@
 {
-  "updated": "2026-04-14 19:21 UTC",
+  "updated": "2026-04-15 02:48 UTC",
   "items": [
     {
-      "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
-      "url": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
+      "title": "Godzilla Minus Zero stomps through New York in first teaser trailer",
+      "url": "https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays",
+      "url": "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Ukraine’s military robot surge aims to offset drone risks to humans",
+      "url": "https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/",
       "source": "Ars Technica",
       "affiliate": false
     },
     {
-      "title": "Prime Video is bundling Apple TV Plus and Peacock for a limited time",
-      "url": "https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle",
+      "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May",
+      "url": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "The FCC just saved Netgear from its router ban for no obvious reason",
+      "url": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
       "source": "The Verge",
       "affiliate": false
     },
     {
-      "title": "Privacy advocates want Google to stop handing consumer data over to ICE",
-      "url": "https://www.theverge.com/news/911789/eff-google-giving-data-ice-california-new-york",
-      "source": "The Verge",
+      "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
+      "url": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
+      "source": "Ars Technica",
       "affiliate": false
     },
     {
-      "title": "The attacks on Sam Altman are a warning for the AI world",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
-      "source": "The Verge",
+      "title": "Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away",
+      "url": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/",
+      "source": "Ars Technica",
       "affiliate": false
     },
     {
-      "title": "Elon Musk grilled by senator over X Money plans",
-      "url": "https://www.theverge.com/policy/911702/elon-musk-x-money-senator-warren",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "You can grab LG’s B5 OLED TV for over 50 percent off right now",
-      "url": "https://www.theverge.com/gadgets/911719/lg-b5-oled-tv-48-55-inch-best-buy-deal-sale",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Leaked images reveal a dual-lens pro version of DJI’s next Osmo Pocket camera",
-      "url": "https://www.theverge.com/tech/911674/dji-osmo-pocket-4-pro-leak-rumor-dual-camera",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Google&#8217;s Spotlight-like desktop search bar for Windows is available for everyone",
-      "url": "https://www.theverge.com/tech/911741/google-windows-app-launch",
-      "source": "The Verge",
+      "title": "Apple chooses Amazon satellites for iPhone, years after rejecting Starlink offer",
+      "url": "https://arstechnica.com/tech-policy/2026/04/amazon-to-merge-with-globalstar-become-iphones-primary-satellite-provider/",
+      "source": "Ars Technica",
       "affiliate": false
     }
   ]
