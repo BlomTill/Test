@@ -1,52 +1,52 @@
 {
-  "updated": "2026-04-15 07:52 UTC",
+  "updated": "2026-04-15 13:44 UTC",
   "items": [
     {
-      "title": "Godzilla Minus Zero stomps through New York in first teaser trailer",
-      "url": "https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer",
+      "title": "Blue Origin has a new employee stock plan, but not everyone is happy",
+      "url": "https://arstechnica.com/space/2026/04/blue-origin-has-a-new-employee-stock-plan-but-not-everyone-is-happy/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "It's Tax Day, and no one knows how to file for prediction market winnings",
+      "url": "https://arstechnica.com/tech-policy/2026/04/its-tax-day-and-no-one-knows-how-to-file-for-prediction-market-winnings/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "More phone cameras should come with telephoto lenses",
+      "url": "https://www.theverge.com/tech/912097/vivo-x300-ultra-camera-kit-hands-on",
       "source": "The Verge",
       "affiliate": false
     },
     {
-      "title": "Microsoft&#8217;s finally giving up on its massive Surface Hub touchscreen displays",
-      "url": "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued",
+      "title": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
+      "url": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
       "source": "The Verge",
       "affiliate": false
     },
     {
-      "title": "Ukraine’s military robot surge aims to offset drone risks to humans",
-      "url": "https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Sony killing features for antenna, set-top box users of Bravia smart TVs in May",
-      "url": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "The FCC just saved Netgear from its router ban for no obvious reason",
-      "url": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
+      "title": "Amazon’s new Fire TV Stick HD is its ‘slimmest ever’",
+      "url": "https://www.theverge.com/tech/912346/amazon-fire-tv-stick-hd-slimmest-ever",
       "source": "The Verge",
       "affiliate": false
     },
     {
-      "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
-      "url": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
-      "source": "Ars Technica",
+      "title": "Nothing makes it easy to share files between any Android phone and a Mac",
+      "url": "https://www.theverge.com/tech/912317/nothing-warp-android-mac-pc-linux-hands-on",
+      "source": "The Verge",
       "affiliate": false
     },
     {
-      "title": "Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away",
-      "url": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/",
-      "source": "Ars Technica",
+      "title": "The new Tomodachi Life is made to be shared — even if Nintendo doesn’t want you to",
+      "url": "https://www.theverge.com/entertainment/911950/tomodachi-life-living-the-dream-review-nintendo-switch",
+      "source": "The Verge",
       "affiliate": false
     },
     {
-      "title": "Apple chooses Amazon satellites for iPhone, years after rejecting Starlink offer",
-      "url": "https://arstechnica.com/tech-policy/2026/04/amazon-to-merge-with-globalstar-become-iphones-primary-satellite-provider/",
-      "source": "Ars Technica",
+      "title": "Microsoft faces fresh Windows Recall security concerns",
+      "url": "https://www.theverge.com/report/912101/microsoft-windows-recall-new-security-concerns-response",
+      "source": "The Verge",
       "affiliate": false
     }
   ]
