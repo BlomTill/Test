@@ -1,6 +1,12 @@
 {
-  "updated": "2026-04-17 02:50 UTC",
+  "updated": "2026-04-17 07:52 UTC",
   "items": [
+    {
+      "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
+      "url": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
     {
       "title": "YouTube’s mobile app finally lets you share timestamped videos",
       "url": "https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips",
@@ -40,12 +46,6 @@
     {
       "title": "Gucci-branded Google smart glasses are coming next year",
       "url": "https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Ballmer gives $80 million to NPR, with strings attached",
-      "url": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
       "source": "The Verge",
       "affiliate": false
     }
