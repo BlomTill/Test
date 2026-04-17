@@ -1,6 +1,36 @@
 {
-  "updated": "2026-04-17 07:52 UTC",
+  "updated": "2026-04-17 13:25 UTC",
   "items": [
+    {
+      "title": "The ‘AI is inevitable’ trap",
+      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Rocket Report: Starship V3 test-fired; ESA's tentative step toward crew launch",
+      "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "The creative software industry has declared war on Adobe",
+      "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "A giant cell tower is going to space this weekend",
+      "url": "https://www.theverge.com/tech/913752/blue-origin-reusable-rocket-test-ast-sapcemobile",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
     {
       "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
       "url": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
@@ -17,36 +47,6 @@
       "title": "Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon",
       "url": "https://arstechnica.com/culture/2026/04/lucasfilm-drops-mandalorian-and-grogu-final-trailer-at-cinemacon/",
       "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time",
-      "url": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "OpenAI starts offering a biology-tuned LLM",
-      "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "As they got close to the Moon, Artemis II astronauts were eager to land",
-      "url": "https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
-      "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Gucci-branded Google smart glasses are coming next year",
-      "url": "https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027",
-      "source": "The Verge",
       "affiliate": false
     }
   ]
