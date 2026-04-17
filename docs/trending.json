@@ -1,52 +1,52 @@
 {
-  "updated": "2026-04-16 19:20 UTC",
+  "updated": "2026-04-17 02:50 UTC",
   "items": [
     {
-      "title": "Ad firms settle with Trump FTC over claims they boycotted conservative media",
-      "url": "https://arstechnica.com/tech-policy/2026/04/ad-firms-settle-with-trump-ftc-over-claims-they-boycotted-conservative-media/",
+      "title": "YouTube’s mobile app finally lets you share timestamped videos",
+      "url": "https://www.theverge.com/streaming/913611/youtube-mobile-app-share-at-timestamp-clips",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon",
+      "url": "https://arstechnica.com/culture/2026/04/lucasfilm-drops-mandalorian-and-grogu-final-trailer-at-cinemacon/",
       "source": "Ars Technica",
       "affiliate": false
     },
     {
-      "title": "Live Nation says it will fight monopoly suit loss",
-      "url": "https://www.theverge.com/policy/913494/live-nation-ticketmaster-fight-state-monopoly-jury-verdict",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Ozlo’s comfy Sleepbuds are nearly 30 percent off in the run-up to Mother’s Day",
-      "url": "https://www.theverge.com/gadgets/913352/ozlo-sleepbuds-mothers-day-deal-sale",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Teenage Engineering might be getting into instrument amps next",
-      "url": "https://www.theverge.com/gadgets/913396/teenage-engineering-ko-amp-35-leak",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "The only way to fight deepfakes is by making deepfakes",
-      "url": "https://www.theverge.com/report/913445/deepfake-detection-reality-defender-pindrop-ai",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Casely has reannounced a power bank recall from 2025 following a fatality",
-      "url": "https://www.theverge.com/tech/913177/casely-recall-power-pods-wireless-bank-lithium-ion-battery-fire-explosion-uscpsc",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "New Codex features include the ability to use your computer in the background",
-      "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
+      "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time",
+      "url": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
       "source": "Ars Technica",
       "affiliate": false
     },
     {
-      "title": "The Ukraine war's deep impact on Metro 2039’s development, story",
-      "url": "https://arstechnica.com/gaming/2026/04/making-games-in-a-war-zone-metro-2039s-ukrainian-developers-speak-out/",
+      "title": "OpenAI starts offering a biology-tuned LLM",
+      "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
       "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "As they got close to the Moon, Artemis II astronauts were eager to land",
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Gucci-branded Google smart glasses are coming next year",
+      "url": "https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Ballmer gives $80 million to NPR, with strings attached",
+      "url": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
+      "source": "The Verge",
       "affiliate": false
     }
   ]
