@@ -1,6 +1,18 @@
 {
-  "updated": "2026-04-18 13:09 UTC",
+  "updated": "2026-04-18 18:55 UTC",
   "items": [
+    {
+      "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
+      "url": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Cheap stuff that doesn’t suck, take 3",
+      "url": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "Dyson’s handheld fan is more powerful and louder than I expected",
       "url": "https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on",
@@ -34,18 +46,6 @@
     {
       "title": "OpenAI’s former Sora boss is leaving",
       "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
       "source": "The Verge",
       "affiliate": false
     }
