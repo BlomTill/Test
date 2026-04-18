@@ -1,6 +1,42 @@
 {
-  "updated": "2026-04-17 19:05 UTC",
+  "updated": "2026-04-18 02:41 UTC",
   "items": [
+    {
+      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+      "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "OpenAI’s former Sora boss is leaving",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake\"",
+      "url": "https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Trump picks qualified, normal health leader to head CDC; experts still cautious",
+      "url": "https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
     {
       "title": "$25,000 buys plenty of used EVs: Here are some options",
       "url": "https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/",
@@ -10,42 +46,6 @@
     {
       "title": "Satellite and drone images reveal big delays in US data center construction",
       "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Betting on the news raises ethical questions for journalists",
-      "url": "https://www.theverge.com/report/914157/prediction-markets-news-outlet-ethics-policy-propublica-kalshi-polymarket",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Amazon won’t release Fire Sticks that support sideloading anymore",
-      "url": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Ridley Scott's post-apocalyptic The Dog Stars drops first trailer",
-      "url": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "This charming gadget writes bad AI poetry",
-      "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Artemis II pilot talks about what it was really like to fly and land in Orion",
-      "url": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
-      "url": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
       "source": "Ars Technica",
       "affiliate": false
     }
