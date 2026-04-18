@@ -1,6 +1,30 @@
 {
-  "updated": "2026-04-18 07:13 UTC",
+  "updated": "2026-04-18 13:09 UTC",
   "items": [
+    {
+      "title": "Dyson’s handheld fan is more powerful and louder than I expected",
+      "url": "https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "There’s nothing like an RPG over vacation",
+      "url": "https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "The AI apps are coming for your PC",
+      "url": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Great white sharks are overheating",
+      "url": "https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
     {
       "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
       "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
@@ -23,30 +47,6 @@
       "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
       "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
       "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake\"",
-      "url": "https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Trump picks qualified, normal health leader to head CDC; experts still cautious",
-      "url": "https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "$25,000 buys plenty of used EVs: Here are some options",
-      "url": "https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "Satellite and drone images reveal big delays in US data center construction",
-      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
-      "source": "Ars Technica",
       "affiliate": false
     }
   ]
