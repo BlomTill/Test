@@ -1,6 +1,24 @@
 {
-  "updated": "2026-04-19 13:08 UTC",
+  "updated": "2026-04-19 18:56 UTC",
   "items": [
+    {
+      "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
+      "url": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
+    {
+      "title": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "The Stars My Destination is classic proto-cyberpunk",
+      "url": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
       "url": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
@@ -28,24 +46,6 @@
     {
       "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
       "url": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Cheap stuff that doesn’t suck, take 3",
-      "url": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Dyson’s handheld fan is more powerful and louder than I expected",
-      "url": "https://www.theverge.com/tech/908962/dyson-hushjet-mini-cool-personal-handheld-fan-hands-on",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "There’s nothing like an RPG over vacation",
-      "url": "https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2",
       "source": "The Verge",
       "affiliate": false
     }
