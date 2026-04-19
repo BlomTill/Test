@@ -1,6 +1,24 @@
 {
-  "updated": "2026-04-19 07:24 UTC",
+  "updated": "2026-04-19 13:08 UTC",
   "items": [
+    {
+      "title": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
+      "url": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "The future of local TV news has taken a Trumpian turn",
+      "url": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like",
+      "url": "https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/",
+      "source": "Ars Technica",
+      "affiliate": false
+    },
     {
       "title": "The RAM shortage could last years",
       "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
@@ -29,24 +47,6 @@
       "title": "There’s nothing like an RPG over vacation",
       "url": "https://www.theverge.com/games/908358/people-of-note-pc-playstation-xbox-nintendo-switch-2",
       "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "The AI apps are coming for your PC",
-      "url": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Great white sharks are overheating",
-      "url": "https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/",
-      "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
-      "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
-      "source": "Ars Technica",
       "affiliate": false
     }
   ]
