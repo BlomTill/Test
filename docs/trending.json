@@ -1,6 +1,18 @@
 {
-  "updated": "2026-04-19 18:56 UTC",
+  "updated": "2026-04-20 03:18 UTC",
   "items": [
+    {
+      "title": "Blue Origin successfully reused its New Glenn rocket",
+      "url": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+      "source": "The Verge",
+      "affiliate": false
+    },
+    {
+      "title": "Cloud development platform Vercel was hacked",
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "source": "The Verge",
+      "affiliate": false
+    },
     {
       "title": "Blue Origin's rocket reuse achievement marred by upper stage failure",
       "url": "https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/",
@@ -35,18 +47,6 @@
       "title": "I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like",
       "url": "https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/",
       "source": "Ars Technica",
-      "affiliate": false
-    },
-    {
-      "title": "The RAM shortage could last years",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "source": "The Verge",
-      "affiliate": false
-    },
-    {
-      "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
-      "url": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
-      "source": "The Verge",
       "affiliate": false
     }
   ]
